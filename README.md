@@ -3,6 +3,13 @@ nop
 
 a library for providing a javascript function that does nothing; it's like super useful
 
+use case
+--------
+Did you know every time you create a do-nothing no-op function you're consuming 
+memory? You can literally save maybe a whole byte or two by using this nop library.
+
+Anybody who cares about being efficient and doesn't care about being rediculous should use this library.
+
 examples
 -------
 
@@ -20,7 +27,7 @@ function example(options) {
 }
 ```
 
-### feel like calling a function, but don't want it to do anything
+### feel like calling a function, but don't want it to do anything and don't want to create it myself
 ```javascript
 var nop = require('nop');
 
