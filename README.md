@@ -1,6 +1,8 @@
 nop
 ===
 
+[![Build Status](https://secure.travis-ci.org/supershabam/nop.png?branch=master)](http://travis-ci.org/supershabam/nop)
+
 a library for providing a javascript function that does nothing; it's like super useful
 
 use case
