@@ -1,6 +1,6 @@
 {
   "name": "nop",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "library for providing a function that does nothing; it's like super useful",
   "main": "index.js",
   "directories": {
