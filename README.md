@@ -12,7 +12,7 @@ use case
 Did you know every time you create a do-nothing no-op function you're consuming 
 memory? You can literally save maybe a whole byte or two by using this nop library.
 
-Anybody who cares about being efficient and doesn't care about being rediculous should use this library.
+Anybody who cares about being efficient and doesn't care about being ridiculous should use this library.
 
 examples
 -------
