@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "library for providing a function that does nothing; it's like super useful",
   "main": "index.js",
+  "typings": "index.d.ts",
   "directories": {
     "test": "test"
   },
